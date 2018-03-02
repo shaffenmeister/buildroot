@@ -91,14 +91,14 @@ F:	package/hostapd/
 N:	Alexander Varnin <fenixk19@mail.ru>
 F:	package/liblog4c-localtime/
 
-N:	Alexandre Belloni <alexandre.belloni@free-electrons.com>
+N:	Alexandre Belloni <alexandre.belloni@bootlin.com>
 F:	package/tz/
 
 N:	Alexandre Esse <alexandre.esse.dev@gmail.com>
 F:	package/kvazaar/
 F:	package/v4l2loopback/
 
-N:	Alistair Francis <alistair.francis@xilinx.com>
+N:	Alistair Francis <alistair@alistair23.me>
 F:	package/xen/
 
 N:	Alvaro G. M <alvaro.gamez@hazent.com>
@@ -150,7 +150,7 @@ F:	package/lsscsi/
 N:	Anthony Viallard <viallard@syscom-instruments.com>
 F:	package/gnuplot/
 
-N:	Antoine Ténart <antoine.tenart@free-electrons.com>
+N:	Antoine Ténart <antoine.tenart@bootlin.com>
 F:	package/wf111/
 
 N:	ARC Maintainers <arc-buildroot@synopsys.com>
@@ -541,6 +541,8 @@ F:	package/xxhash/
 N:	Eric Le Bihan <eric.le.bihan.dev@free.fr>
 F:	docs/manual/adding-packages-meson.txt
 F:	package/adwaita-icon-theme/
+F:	package/cargo-bin/
+F:	package/cargo/
 F:	package/darkhttpd/
 F:	package/eudev/
 F:	package/execline/
@@ -548,6 +550,8 @@ F:	package/hicolor-icon-theme/
 F:	package/jemalloc/
 F:	package/meson/
 F:	package/ninja/
+F:	package/rust-bin/
+F:	package/rust/
 F:	package/s6/
 F:	package/s6-dns/
 F:	package/s6-linux-init/
@@ -637,6 +641,7 @@ F:	package/libupnp18/
 F:	package/minissdpd/
 F:	package/motion/
 F:	package/rygel/
+F:	package/safeclib/
 F:	package/tinycbor/
 F:	package/tinydtls/
 
@@ -753,6 +758,7 @@ F:	package/libusbgx/
 F:	package/python-cheetah/
 F:	package/python-markdown/
 F:	package/python-pyqt/
+F:	package/python-remi/
 F:	package/python-sip/
 
 N:	Henrique Camargo <henrique@henriquecamargo.com>
@@ -1245,7 +1251,7 @@ F:	package/systemd-bootchart/
 F:	package/tinyalsa/
 F:	package/tinyxml/
 
-N:	Maxime Ripard <maxime.ripard@free-electrons.com>
+N:	Maxime Ripard <maxime.ripard@bootlin.com>
 F:	package/kmsxx/
 
 N:	Michael Rommel <rommel@layer-7.net>
@@ -1274,7 +1280,7 @@ N:	Mike Harmony <mike.harmony@snapav.com>
 F:	board/sinovoip/m2-plus/
 F:	configs/bananapi_m2_plus_defconfig
 
-N:	Mylène Josserand <mylene.josserand@free-electrons.com>
+N:	Mylène Josserand <mylene.josserand@bootlin.com>
 F:	package/rtl8723bu/
 
 N:	Nathan Lynch <ntl@pobox.com>
@@ -1509,9 +1515,6 @@ F:	package/terminology/
 F:	package/upower/
 F:	package/xenomai/
 
-N:	Romain Perier <romain.perier@free-electrons.com>
-F:	package/amd-catalyst/
-
 N:	Ryan Barnett <ryan.barnett@rockwellcollins.com>
 F:	package/atftp/
 F:	package/miraclecast/
@@ -1732,7 +1735,7 @@ F:	support/scripts/size-stats
 F:	utils/size-stats-compare
 F:	toolchain/
 
-N:	Thomas Petazzoni <thomas.petazzoni@free-electrons.com>
+N:	Thomas Petazzoni <thomas.petazzoni@bootlin.com>
 F:	arch/Config.in.arm
 F:	boot/boot-wrapper-aarch64/
 F:	boot/grub2/
